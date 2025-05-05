@@ -7,7 +7,6 @@ import Section3 from "@/components/ui/Section3";
 import Section4 from "@/components/ui/Section4";
 import Section5 from "@/components/ui/Section5";
 import Section6 from "@/components/ui/Section6";
-// import { ToggleTheme } from "../components/toggle-theme";
 
 export default function Home() {
   return (
