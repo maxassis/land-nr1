@@ -24,7 +24,7 @@ export default function CardDepoiment({ text, stars }: CardProps) {
 
       <div className="flex gap-1 mt-8">
         {Array.from({ length: stars }).map((_, index) => (
-          <StarIcon key={index} />
+          <StarIcon key={index} index={0} />
         ))}
       </div>
     </div>
