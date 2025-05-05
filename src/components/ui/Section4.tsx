@@ -1,6 +1,5 @@
 "use client";
 import * as motion from "motion/react-client";
-import CardInfo from "./CardInfo";
 
 export default function Section4() {
   return (

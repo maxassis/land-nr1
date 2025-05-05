@@ -8,7 +8,6 @@ import {
   AccordionItem,
   AccordionTrigger,
 } from "@/components/ui/accordion";
-import { ArrowRight } from "lucide-react";
 
 export default function Section6() {
   return (
