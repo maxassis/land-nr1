@@ -8,7 +8,7 @@ export default function Section1() {
       initial={{ x: -200, opacity: 0 }}
       whileInView={{ x: 0, opacity: 1 }}
       transition={{ duration: 0.4, ease: "linear" }}
-      viewport={{ once: true, amount: 0.2 }}
+      viewport={{ once: true, amount: 0 }}
     >
       <div className="px-5">
         <div id="sobre" className="max-w-[90rem] w-full mx-auto">
